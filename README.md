@@ -1,6 +1,6 @@
 ## Silvoney Felipe <img src="https://media.tenor.com/8SwMyK5qUE4AAAAj/zelda-totk.gif](https://media.tenor.com/8SwMyK5qUE4AAAAj/zelda-totk.gif)" width="90px">
 
-Eu sou <strong>Silvoney Felipe</strong>, <strong>sou estudade de ads(análise e desenvolvimento de sistema), com uma breve formação em análise de dados, e algumas curiosidades de ciencia de dados</strong> 👨🏻‍💻 
+Eu sou <strong>Sil</strong>, <strong>sou estudade de ads(análise e desenvolvimento de sistema), com uma breve formação em análise de dados, e algumas curiosidades de ciencia de dados</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>javascript</strong> 
 - 💬 Pergunte-me sobre: <strong>Gosto de fazer análises prévias </strong>
