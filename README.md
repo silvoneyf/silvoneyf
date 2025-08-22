@@ -2,8 +2,8 @@
 
 Eu sou <strong>Sil</strong>, <strong>sou estudade de ads(análise e desenvolvimento de sistema), com uma breve formação em análise de dados, e algumas curiosidades de ciencia de dados</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>javascript</strong> 
-- 💬 Pergunte-me sobre: <strong>fazer análises prévias </strong>
+- 🚀 Atualmente estou aprendendo: <strong>javascript inicialmente, ingles tecnico e projetos organizacionais</strong> 
+- 💬 Pergunte-me sobre: <strong>fazer análises prévias, jogos digitais, musicas e animes</strong>
 - 📣 Nós podemos falar em: <strong>Portugues</strong>
 
 <div align="center">
