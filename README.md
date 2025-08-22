@@ -1,4 +1,4 @@
-## [Silvoney Felipe] <img src="https://media.tenor.com/8SwMyK5qUE4AAAAj/zelda-totk.gif](https://media.tenor.com/8SwMyK5qUE4AAAAj/zelda-totk.gif)" width="30px">
+## [Silvoney Felipe] <img src="https://media.tenor.com/8SwMyK5qUE4AAAAj/zelda-totk.gif](https://media.tenor.com/8SwMyK5qUE4AAAAj/zelda-totk.gif)" width="90px">
 
 Eu sou <strong>Silvoney Felipe</strong>, <strong>sou estudade de ads(análise e desenvolvimento de sistema), com uma breve formação em análise de dados, e algumas curiosidades de ciencia de dados</strong> 👨🏻‍💻 
 
