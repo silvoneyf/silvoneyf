@@ -1,10 +1,10 @@
 ## [Silvoney Felipe] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Silvoney Felipe</strong>, <strong>sou estudade de ads(análise e desenvolvimento de sistema), com uma breve formação em análise de dados, e algumas curiosidades de ciencia de dados</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>javascript</strong> 
+- 💬 Pergunte-me sobre: <strong>Gosto de fazer análises prévias </strong>
+- 📣 Nós podemos falar em: <strong>Portugues</strong>
 
 <div align="center">
 
